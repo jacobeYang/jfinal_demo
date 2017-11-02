@@ -6,6 +6,6 @@ public class TimeUtil {
 
 	public static Timestamp getStampTime(){
 		Timestamp ts=new Timestamp(System.currentTimeMillis());
-		return ts;
+		return ts; 
 	}
 }
